@@ -11,7 +11,7 @@ public class Log4jExample {
    // 결국은 log2가 다 이김.
    
    static org.apache.log4j.Logger log3 = org.apache.log4j.Logger.getLogger(Log4jExample.class);
-   
+    
    public static void main(String[] args) {
       log1.info("###################");
       log1.info("Util Log Loading...");
