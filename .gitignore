@@ -1,4 +1,5 @@
 /target/
+.gitignore.swp
 .classpath
 .project
 .cache-main
